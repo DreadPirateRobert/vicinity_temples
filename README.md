@@ -8,5 +8,9 @@ steps to run
 4)run the project(python internproj.py)
 
 ![alt text](https://github.com/DreadPirateRobert/vicinity_temples/blob/master/output/Screenshot%20from%202018-08-17%2020-30-33.png)
+
+
 ![alt text](https://github.com/DreadPirateRobert/vicinity_temples/blob/master/output/Screenshot%20from%202018-08-17%2020-31-43.png)
+
+
 ![alt text](https://github.com/DreadPirateRobert/vicinity_temples/blob/master/output/Screenshot%20from%202018-08-17%2020-31-56.png)
