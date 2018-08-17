@@ -7,7 +7,7 @@ from math import sin, cos, sqrt, atan2, radians
 class MyFormHandler(tornado.web.RequestHandler):
     def get(self):
         self.write('<html><body><form action="/myform" method="POST">'
-                    'Enter location/LatLong eg: Mumbai or 19.07283, 72.88261'
+                    'Enter location/LatLong eg: 7.9887507, 79.7447459'
                    '<input type="text" name="lat">'
                    '<input type="text" name="long">'
                    '<input type="submit" value="Submit">'
